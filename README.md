@@ -58,7 +58,7 @@ ai-dev-starter-kit/
 
 ```bash
 # Clone the kit
-git clone https://github.com/h-Benitez13/ai-dev-starter-kit.git
+git clone https://github.com/hbenitez13/ai-dev-starter-kit.git
 
 # Copy OpenCode skills to your project
 cp -r ai-dev-starter-kit/opencode/skills/ your-project/.opencode/skills/
@@ -135,7 +135,7 @@ Every skill is designed to be customized. The configs use generic patterns that 
 
 ## Pro Version
 
-Want more? The **[AI Dev Starter Kit Pro](https://h-benitez13.gumroad.com/l/ai-dev-starter-kit)** includes everything above plus:
+Want more? The **[AI Dev Starter Kit Pro](https://hbenitez13.gumroad.com/l/ai-dev-starter-kit)** includes everything above plus:
 
 - **Full PR Pipeline** skill - one command runs format, lint, typecheck, build, test, and creates the PR
 - **Dependency Updater** skill - safe, isolated dependency updates with full verification
@@ -149,4 +149,4 @@ MIT - Use it, sell it, modify it, share it. See [LICENSE](LICENSE).
 
 ---
 
-Built by [@h-Benitez13](https://github.com/h-Benitez13) from real production workflows at an AI startup.
+Built by [@hbenitez13](https://github.com/hbenitez13) from real production workflows at an AI startup.
