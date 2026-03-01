@@ -58,7 +58,7 @@ ai-dev-starter-kit/
 
 ```bash
 # Clone the kit
-git clone https://github.com/hbenitez13/ai-dev-starter-kit.git
+git clone https://github.com/h-Benitez13/ai-dev-starter-kit.git
 
 # Copy OpenCode skills to your project
 cp -r ai-dev-starter-kit/opencode/skills/ your-project/.opencode/skills/
@@ -149,4 +149,4 @@ MIT - Use it, sell it, modify it, share it. See [LICENSE](LICENSE).
 
 ---
 
-Built by [@hbenitez13](https://github.com/hbenitez13) from real production workflows at an AI startup.
+Built by [@h-Benitez13](https://github.com/h-Benitez13) from real production workflows at an AI startup.

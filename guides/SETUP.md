@@ -14,7 +14,7 @@ How to install the AI Dev Starter Kit in your project.
 
 ```bash
 # Clone the starter kit
-git clone https://github.com/hbenitez13/ai-dev-starter-kit.git /tmp/ai-kit
+git clone https://github.com/h-Benitez13/ai-dev-starter-kit.git /tmp/ai-kit
 
 # Copy OpenCode skills
 mkdir -p .opencode/skills
@@ -77,7 +77,7 @@ The `.claude/settings.json` is automatically picked up on next session start.
 To update to the latest version:
 
 ```bash
-git clone https://github.com/hbenitez13/ai-dev-starter-kit.git /tmp/ai-kit
+git clone https://github.com/h-Benitez13/ai-dev-starter-kit.git /tmp/ai-kit
 # Compare and merge new changes with your customized versions
 diff -r .opencode/skills /tmp/ai-kit/opencode/skills
 # Manually merge desired updates
