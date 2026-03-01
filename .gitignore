@@ -3,3 +3,6 @@ node_modules/
 *.log
 .env
 .env.local
+
+# Premium content (sold separately, not in free repo)
+premium/

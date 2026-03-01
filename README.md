@@ -133,6 +133,16 @@ Every skill is designed to be customized. The configs use generic patterns that 
 - Different project management tools (Linear, Jira, GitHub Issues)
 - Different tech stacks (Next.js, Remix, Vite, etc.)
 
+## Pro Version
+
+Want more? The **[AI Dev Starter Kit Pro](https://h-benitez13.gumroad.com/l/ai-dev-starter-kit)** includes everything above plus:
+
+- **Full PR Pipeline** skill - one command runs format, lint, typecheck, build, test, and creates the PR
+- **Dependency Updater** skill - safe, isolated dependency updates with full verification
+- **Code Review Assistant** skill - automated pre-review checklist before human review
+- **Interactive Setup Wizard** - customize all skills for your project in 30 seconds (no manual find-and-replace)
+- **Fully configured example** - see exactly what a complete setup looks like for React + Vite + pnpm
+
 ## License
 
 MIT - Use it, sell it, modify it, share it. See [LICENSE](LICENSE).
