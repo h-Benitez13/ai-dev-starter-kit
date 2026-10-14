@@ -1,3 +1,4 @@
+> ⚠️ **Superseded (October 2026)** — This kit evolved into a private, harness-agnostic setup built on the [Agent Skills standard](https://agentskills.io) (SKILL.md folders + AGENTS.md). This repo is a frozen March 2026 snapshot, kept for reference only. It is archived and no longer maintained.
 # AI Dev Starter Kit
 
 **Production-tested AI coding workflow configs for OpenCode, Cursor, and Claude Code.**
